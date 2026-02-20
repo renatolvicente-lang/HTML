@@ -1,9 +1,14 @@
-body{
-    background-color: rgba(218, 165, 32, 0.247);
+body {
+
+    background-color: rgb(138, 103, 14);
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("../assets/imagens/1.gif");
+    background-size: cover;
 }
+
 img {
     width: 600px;
     height: 500px;
+    border-radius: 50px;
 }
