@@ -3,6 +3,10 @@
 }
 #navbar{
     background-color: lightblue;
+    color: black;
+
+    display: flex;
+    justify-content: space-between;
 }
 #escudo{
     width: 65px;
