@@ -7,6 +7,9 @@
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #escudo{
     width: 65px;
