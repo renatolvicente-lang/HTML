@@ -29,11 +29,26 @@ body{
 .noticia{
     background-color: rgba(170, 170, 170, 0.678);
     border: 1px solid black; 
-
+   
 
 }
 .img_noticia{
     width: 400px;
+    
+}
+#escalação{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+    background-color: cadetblue;
+}
+.players{
+    margin: auto;
+}
+.img_players{
+    width: 70px;
 }
 footer{
     padding: 5px;
@@ -41,4 +56,12 @@ footer{
     text-align: center;
     background-color: rgba(42, 42, 116, 0.603);
     color: white;
+}
+
+.fixa{
+    position: fixed;
+    width: 100px;
+    bottom: 20px;
+    right: 50px;
+    z-index: 1000;
 }
