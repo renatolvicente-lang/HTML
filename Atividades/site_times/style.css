@@ -60,7 +60,7 @@ footer{
 
 .fixa{
     position: fixed;
-    width: 100px;
+    width: 150px;
     bottom: 20px;
     right: 50px;
     z-index: 1000;
