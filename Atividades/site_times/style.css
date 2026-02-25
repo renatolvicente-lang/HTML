@@ -25,6 +25,7 @@ body{
     justify-content: space-around;
     padding: 6px;
     background-color: rgba(93, 146, 163, 0.562);
+    gap: 20px;
 }
 .noticia{
     background-color: rgba(170, 170, 170, 0.678);
